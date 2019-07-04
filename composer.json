@@ -1,0 +1,17 @@
+{
+    "name": "server/router",
+    "description": "Simple http router.",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Orlando Sergio Dominguez",
+            "email": "serggio@msn.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {},
+    "require-dev": {
+        "consolidation/robo": "^1.4"
+    }
+}
